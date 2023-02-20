@@ -10,3 +10,5 @@ npm run build
 npm run start
 ```
 Browse to localhost:3000
+![image](https://user-images.githubusercontent.com/24234359/220212756-5c0e7629-2e24-4d92-b6e9-1f0f5968b6f3.png)
+
